@@ -1,2 +1,2 @@
-rkrk
-kr
+#!/bin/bash
+This is what i means 
