@@ -1,1 +1,2 @@
-3-new_owner
+#!/bin/bash
+sudo chown betty hello
